@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Caption Retriever</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>YouTube Caption Retriever</h1>
+        <p class="description">Get captions from YouTube videos. This tool checks for manual captions first, and if not available, generates them using Faster-Whisper.</p>
+        
+        <div class="form-container">
+            <form id="caption-form">
+                <div class="input-group">
+                    <input type="text" id="youtube-url" placeholder="Paste YouTube URL here" required>
+                    <button type="submit" id="submit-btn">Get Captions</button>
+                </div>
+            </form>
+        </div>
+        
+        <div id="status-container" class="hidden">
+            <div class="loader"></div>
+            <p id="status-message">Processing...</p>
+            <div class="progress-container">
+                <div id="progress-bar"></div>
+            </div>
+        </div>
+        
+        <div id="result-container" class="hidden">
+            <p id="result-message"></p>
+            <a id="download-link" class="download-btn hidden">Download SRT File</a>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
