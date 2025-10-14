@@ -1,39 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>YouTube Caption Retriever</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-</head>
-<body>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
     <div class="container">
-        <h1>YouTube Caption Retriever</h1>
-        <p class="description">Get captions from YouTube videos. This tool checks for manual captions first, and if not available, generates them using Faster-Whisper.</p>
-        
-        <div class="form-container">
-            <form id="caption-form">
-                <div class="input-group">
-                    <input type="text" id="youtube-url" placeholder="Paste YouTube URL here" required>
-                    <button type="submit" id="submit-btn">Get Captions</button>
-                </div>
-            </form>
+      <h1>YouTube Caption Retriever</h1>
+      <p class="description">
+        Get captions from YouTube videos. This tool checks for manual captions
+        first, and if not available, generates them using Faster-Whisper.
+      </p>
+
+      <div class="form-container">
+        <form id="caption-form">
+          <div class="input-group">
+            <input
+              type="text"
+              id="youtube-url"
+              placeholder="Paste YouTube URL here"
+              required
+            />
+            <button type="submit" id="submit-btn">Get Captions</button>
+          </div>
+        </form>
+      </div>
+
+      <div id="status-container" class="hidden">
+        <div class="loader"></div>
+        <p id="status-message">Processing...</p>
+        <div class="progress-container">
+          <div id="progress-bar"></div>
         </div>
-        
-        <div id="status-container" class="hidden">
-            <div class="loader"></div>
-            <p id="status-message">Processing...</p>
-            <div class="progress-container">
-                <div id="progress-bar"></div>
-            </div>
+      </div>
+
+      <div id="result-container" class="hidden">
+        <p id="result-message"></p>
+        <a id="download-link" class="download-btn hidden">Download Subtitle File</a>
+      </div>
+      <div id="isl-vocab-container" class="hidden">
+        <h2 style="margin-top: 20px">Detected Root Words</h2>
+        <div id="isl-vocab" class="vocab-grid"></div>
+      </div>
+      <!-- Add this below #isl-vocab-container -->
+      <div id="affected-container" class="hidden">
+        <h2 style="margin-top: 20px">
+          Words Affected by spaCy (Lemmatization)
+        </h2>
+        <div class="two-col">
+          <div class="table-card">
+            <h3>In ISL List</h3>
+            <table id="tbl-present">
+              <thead>
+                <tr>
+                  <th>Lemma</th>
+                  <th>Count</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div class="table-card">
+            <h3>Not in ISL List</h3>
+            <table id="tbl-absent">
+              <thead>
+                <tr>
+                  <th>Lemma</th>
+                  <th>Count</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
         </div>
-        
-        <div id="result-container" class="hidden">
-            <p id="result-message"></p>
-            <a id="download-link" class="download-btn hidden">Download SRT File</a>
-        </div>
+        <details style="margin-top: 12px">
+          <summary>Show originals for each affected lemma</summary>
+          <div id="affected-originals"></div>
+        </details>
+      </div>
     </div>
-    
+
     <script src="{{ url_for('static', filename='script.js') }}"></script>
-</body>
+  </body>
 </html>
