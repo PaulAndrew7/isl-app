@@ -1,0 +1,1326 @@
+{
+  "source_srt": "English Sentence Structure - English Grammar Lesson.formal.srt",
+  "unique_matches": [
+    "abstract",
+    "add",
+    "adjective",
+    "adverb",
+    "after",
+    "all",
+    "answer",
+    "any",
+    "around",
+    "basic",
+    "beer",
+    "beetroot",
+    "before",
+    "big",
+    "bright",
+    "call",
+    "can",
+    "car",
+    "careful",
+    "case",
+    "change",
+    "clause",
+    "clear",
+    "combine",
+    "come",
+    "common",
+    "communicate",
+    "conjunction",
+    "construct",
+    "correct",
+    "definition",
+    "different",
+    "do",
+    "dot",
+    "dry",
+    "eat",
+    "english",
+    "enough",
+    "everything",
+    "example",
+    "expensive",
+    "explain",
+    "express",
+    "far",
+    "finish",
+    "first",
+    "flexible",
+    "follow",
+    "food",
+    "form",
+    "free",
+    "fresh",
+    "from",
+    "full",
+    "get",
+    "girlfriend",
+    "give",
+    "go",
+    "good",
+    "grammar",
+    "grandmother",
+    "grocery",
+    "guess",
+    "hand",
+    "have",
+    "he",
+    "help",
+    "here",
+    "his",
+    "hope",
+    "idea",
+    "improve",
+    "in",
+    "independent",
+    "it",
+    "itself",
+    "join",
+    "keep",
+    "know",
+    "learn",
+    "like",
+    "limit",
+    "long",
+    "make",
+    "maximum",
+    "mean",
+    "meet",
+    "might",
+    "month",
+    "more",
+    "morning",
+    "music",
+    "my",
+    "never",
+    "new",
+    "next",
+    "no",
+    "noun",
+    "often",
+    "on",
+    "online",
+    "order",
+    "other",
+    "our",
+    "park",
+    "part",
+    "past",
+    "pause",
+    "phrase",
+    "place",
+    "point",
+    "possible",
+    "practice",
+    "private",
+    "pronoun",
+    "put",
+    "question",
+    "quite",
+    "ready",
+    "recipe",
+    "red",
+    "remember",
+    "rule",
+    "run",
+    "same",
+    "section",
+    "see",
+    "sentence",
+    "shape",
+    "she",
+    "short",
+    "should",
+    "single",
+    "some",
+    "something",
+    "spend",
+    "stand",
+    "stop",
+    "structure",
+    "study",
+    "subject",
+    "sun",
+    "surprise",
+    "swimming",
+    "take",
+    "tall",
+    "teach",
+    "that",
+    "there",
+    "they",
+    "this",
+    "time",
+    "together",
+    "try",
+    "university",
+    "up",
+    "verb",
+    "very",
+    "video",
+    "vocabulary",
+    "way",
+    "we",
+    "website",
+    "what",
+    "where",
+    "which",
+    "while",
+    "without",
+    "word",
+    "work",
+    "worry",
+    "write",
+    "you",
+    "your",
+    "zoo"
+  ],
+  "counts": {
+    "abstract": 1,
+    "add": 25,
+    "adjective": 13,
+    "adverb": 17,
+    "after": 8,
+    "all": 3,
+    "answer": 3,
+    "any": 1,
+    "around": 4,
+    "basic": 1,
+    "beer": 1,
+    "beetroot": 1,
+    "before": 14,
+    "big": 1,
+    "bright": 2,
+    "call": 1,
+    "can": 62,
+    "car": 10,
+    "careful": 1,
+    "case": 2,
+    "change": 4,
+    "clause": 38,
+    "clear": 2,
+    "combine": 1,
+    "come": 4,
+    "common": 2,
+    "communicate": 1,
+    "conjunction": 13,
+    "construct": 1,
+    "correct": 4,
+    "definition": 1,
+    "different": 7,
+    "do": 24,
+    "dot": 1,
+    "dry": 1,
+    "eat": 4,
+    "english": 14,
+    "enough": 2,
+    "everything": 2,
+    "example": 15,
+    "expensive": 1,
+    "explain": 1,
+    "express": 1,
+    "far": 1,
+    "finish": 4,
+    "first": 8,
+    "flexible": 1,
+    "follow": 1,
+    "food": 1,
+    "form": 3,
+    "free": 1,
+    "fresh": 1,
+    "from": 3,
+    "full": 4,
+    "get": 9,
+    "girlfriend": 2,
+    "give": 2,
+    "go": 7,
+    "good": 5,
+    "grammar": 1,
+    "grandmother": 1,
+    "grocery": 1,
+    "guess": 1,
+    "hand": 3,
+    "have": 12,
+    "he": 27,
+    "help": 2,
+    "here": 4,
+    "his": 3,
+    "hope": 1,
+    "idea": 10,
+    "improve": 1,
+    "in": 34,
+    "independent": 10,
+    "it": 31,
+    "itself": 7,
+    "join": 2,
+    "keep": 1,
+    "know": 8,
+    "learn": 9,
+    "like": 17,
+    "limit": 2,
+    "long": 6,
+    "make": 25,
+    "maximum": 1,
+    "mean": 5,
+    "meet": 1,
+    "might": 1,
+    "month": 1,
+    "more": 13,
+    "morning": 4,
+    "music": 1,
+    "my": 1,
+    "never": 1,
+    "new": 5,
+    "next": 7,
+    "no": 1,
+    "noun": 14,
+    "often": 1,
+    "on": 4,
+    "online": 2,
+    "order": 2,
+    "other": 3,
+    "our": 3,
+    "park": 4,
+    "part": 6,
+    "past": 1,
+    "pause": 2,
+    "phrase": 6,
+    "place": 1,
+    "point": 5,
+    "possible": 6,
+    "practice": 1,
+    "private": 3,
+    "pronoun": 1,
+    "put": 1,
+    "question": 3,
+    "quite": 1,
+    "ready": 2,
+    "recipe": 1,
+    "red": 2,
+    "remember": 5,
+    "rule": 1,
+    "run": 14,
+    "same": 2,
+    "section": 3,
+    "see": 15,
+    "sentence": 73,
+    "shape": 2,
+    "she": 40,
+    "short": 2,
+    "should": 3,
+    "single": 2,
+    "some": 8,
+    "something": 6,
+    "spend": 3,
+    "stand": 1,
+    "stop": 2,
+    "structure": 7,
+    "study": 3,
+    "subject": 4,
+    "sun": 6,
+    "surprise": 1,
+    "swimming": 1,
+    "take": 2,
+    "tall": 2,
+    "teach": 1,
+    "that": 13,
+    "there": 8,
+    "they": 14,
+    "this": 28,
+    "time": 4,
+    "together": 1,
+    "try": 1,
+    "university": 1,
+    "up": 9,
+    "verb": 19,
+    "very": 4,
+    "video": 2,
+    "vocabulary": 1,
+    "way": 5,
+    "we": 11,
+    "website": 1,
+    "what": 24,
+    "where": 2,
+    "which": 15,
+    "while": 1,
+    "without": 5,
+    "word": 15,
+    "work": 12,
+    "worry": 1,
+    "write": 4,
+    "you": 113,
+    "your": 9,
+    "zoo": 4
+  },
+  "affected_lemmas": [
+    {
+      "lemma": "act",
+      "originals": [
+        "acts"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "add",
+      "originals": [
+        "adding"
+      ],
+      "count": 5
+    },
+    {
+      "lemma": "adjective",
+      "originals": [
+        "adjectives"
+      ],
+      "count": 11
+    },
+    {
+      "lemma": "adverb",
+      "originals": [
+        "adverbs"
+      ],
+      "count": 13
+    },
+    {
+      "lemma": "animal",
+      "originals": [
+        "animals"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "answer",
+      "originals": [
+        "answers"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "be",
+      "originals": [
+        "am",
+        "are",
+        "being",
+        "is",
+        "was",
+        "were"
+      ],
+      "count": 114
+    },
+    {
+      "lemma": "call",
+      "originals": [
+        "called"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "can",
+      "originals": [
+        "ca"
+      ],
+      "count": 11
+    },
+    {
+      "lemma": "case",
+      "originals": [
+        "cases"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "choice",
+      "originals": [
+        "choices"
+      ],
+      "count": 5
+    },
+    {
+      "lemma": "clause",
+      "originals": [
+        "clauses"
+      ],
+      "count": 19
+    },
+    {
+      "lemma": "communicate",
+      "originals": [
+        "communicates"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "complement",
+      "originals": [
+        "complements"
+      ],
+      "count": 5
+    },
+    {
+      "lemma": "conjunction",
+      "originals": [
+        "conjunctions"
+      ],
+      "count": 5
+    },
+    {
+      "lemma": "contain",
+      "originals": [
+        "contains"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "depend",
+      "originals": [
+        "depends"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "detail",
+      "originals": [
+        "details"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "do",
+      "originals": [
+        "did",
+        "does",
+        "done"
+      ],
+      "count": 17
+    },
+    {
+      "lemma": "dry",
+      "originals": [
+        "dried"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "eat",
+      "originals": [
+        "eats"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "economic",
+      "originals": [
+        "economics"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "ending",
+      "originals": [
+        "endings"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "example",
+      "originals": [
+        "examples"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "express",
+      "originals": [
+        "expresses"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "finish",
+      "originals": [
+        "finished"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "form",
+      "originals": [
+        "forms"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "get",
+      "originals": [
+        "getting"
+      ],
+      "count": 8
+    },
+    {
+      "lemma": "give",
+      "originals": [
+        "gave"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "go",
+      "originals": [
+        "goes",
+        "going"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "grocery",
+      "originals": [
+        "groceries"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "have",
+      "originals": [
+        "has"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "i",
+      "originals": [
+        "me"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "idea",
+      "originals": [
+        "ideas"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "join",
+      "originals": [
+        "joined",
+        "joins"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "kind",
+      "originals": [
+        "kinds"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "learn",
+      "originals": [
+        "learned",
+        "learning"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "leave",
+      "originals": [
+        "left"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "lesson",
+      "originals": [
+        "lessons"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "like",
+      "originals": [
+        "likes"
+      ],
+      "count": 17
+    },
+    {
+      "lemma": "limit",
+      "originals": [
+        "limited"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "link",
+      "originals": [
+        "linked"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "long",
+      "originals": [
+        "longer"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "lot",
+      "originals": [
+        "lots"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "make",
+      "originals": [
+        "made",
+        "makes",
+        "making"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "mean",
+      "originals": [
+        "meaning",
+        "means"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "need",
+      "originals": [
+        "needs"
+      ],
+      "count": 7
+    },
+    {
+      "lemma": "noun",
+      "originals": [
+        "nouns"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "olivi",
+      "originals": [
+        "olivier"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "one",
+      "originals": [
+        "ones"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "part",
+      "originals": [
+        "parts"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "phrase",
+      "originals": [
+        "phrases"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "point",
+      "originals": [
+        "points"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "position",
+      "originals": [
+        "positions"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "possibility",
+      "originals": [
+        "possibilities"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "pronoun",
+      "originals": [
+        "pronouns"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "rise",
+      "originals": [
+        "rises"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "rule",
+      "originals": [
+        "rules"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "run",
+      "originals": [
+        "runs"
+      ],
+      "count": 11
+    },
+    {
+      "lemma": "see",
+      "originals": [
+        "saw",
+        "seen"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "sentence",
+      "originals": [
+        "sentences"
+      ],
+      "count": 32
+    },
+    {
+      "lemma": "she",
+      "originals": [
+        "her"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "shout",
+      "originals": [
+        "shouted"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "simple",
+      "originals": [
+        "simplest"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "spend",
+      "originals": [
+        "spends",
+        "spent"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "start",
+      "originals": [
+        "started"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "strawberry",
+      "originals": [
+        "strawberries"
+      ],
+      "count": 6
+    },
+    {
+      "lemma": "structure",
+      "originals": [
+        "structures"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "study",
+      "originals": [
+        "studied",
+        "studying"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "suggestion",
+      "originals": [
+        "suggestions"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "surprise",
+      "originals": [
+        "surprises"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "tall",
+      "originals": [
+        "taller"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "thank",
+      "originals": [
+        "thanks"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "they",
+      "originals": [
+        "them"
+      ],
+      "count": 5
+    },
+    {
+      "lemma": "thing",
+      "originals": [
+        "things"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "use",
+      "originals": [
+        "using"
+      ],
+      "count": 8
+    },
+    {
+      "lemma": "verb",
+      "originals": [
+        "verbs"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "want",
+      "originals": [
+        "wants"
+      ],
+      "count": 13
+    },
+    {
+      "lemma": "watch",
+      "originals": [
+        "watching"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "way",
+      "originals": [
+        "ways"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "we",
+      "originals": [
+        "us"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "well",
+      "originals": [
+        "better"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "will",
+      "originals": [
+        "wo"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "word",
+      "originals": [
+        "words"
+      ],
+      "count": 7
+    },
+    {
+      "lemma": "work",
+      "originals": [
+        "working",
+        "works"
+      ],
+      "count": 6
+    },
+    {
+      "lemma": "write",
+      "originals": [
+        "written"
+      ],
+      "count": 1
+    }
+  ],
+  "affected_present": [
+    {
+      "lemma": "add",
+      "count": 5
+    },
+    {
+      "lemma": "adjective",
+      "count": 11
+    },
+    {
+      "lemma": "adverb",
+      "count": 13
+    },
+    {
+      "lemma": "answer",
+      "count": 2
+    },
+    {
+      "lemma": "call",
+      "count": 1
+    },
+    {
+      "lemma": "can",
+      "count": 11
+    },
+    {
+      "lemma": "case",
+      "count": 1
+    },
+    {
+      "lemma": "clause",
+      "count": 19
+    },
+    {
+      "lemma": "communicate",
+      "count": 1
+    },
+    {
+      "lemma": "conjunction",
+      "count": 5
+    },
+    {
+      "lemma": "do",
+      "count": 17
+    },
+    {
+      "lemma": "dry",
+      "count": 1
+    },
+    {
+      "lemma": "eat",
+      "count": 4
+    },
+    {
+      "lemma": "example",
+      "count": 3
+    },
+    {
+      "lemma": "express",
+      "count": 1
+    },
+    {
+      "lemma": "finish",
+      "count": 1
+    },
+    {
+      "lemma": "form",
+      "count": 2
+    },
+    {
+      "lemma": "get",
+      "count": 8
+    },
+    {
+      "lemma": "give",
+      "count": 2
+    },
+    {
+      "lemma": "go",
+      "count": 3
+    },
+    {
+      "lemma": "grocery",
+      "count": 1
+    },
+    {
+      "lemma": "have",
+      "count": 3
+    },
+    {
+      "lemma": "idea",
+      "count": 4
+    },
+    {
+      "lemma": "join",
+      "count": 2
+    },
+    {
+      "lemma": "learn",
+      "count": 2
+    },
+    {
+      "lemma": "like",
+      "count": 17
+    },
+    {
+      "lemma": "limit",
+      "count": 1
+    },
+    {
+      "lemma": "long",
+      "count": 3
+    },
+    {
+      "lemma": "make",
+      "count": 3
+    },
+    {
+      "lemma": "mean",
+      "count": 3
+    },
+    {
+      "lemma": "noun",
+      "count": 1
+    },
+    {
+      "lemma": "part",
+      "count": 4
+    },
+    {
+      "lemma": "phrase",
+      "count": 4
+    },
+    {
+      "lemma": "point",
+      "count": 1
+    },
+    {
+      "lemma": "pronoun",
+      "count": 1
+    },
+    {
+      "lemma": "rule",
+      "count": 1
+    },
+    {
+      "lemma": "run",
+      "count": 11
+    },
+    {
+      "lemma": "see",
+      "count": 4
+    },
+    {
+      "lemma": "sentence",
+      "count": 32
+    },
+    {
+      "lemma": "she",
+      "count": 2
+    },
+    {
+      "lemma": "spend",
+      "count": 3
+    },
+    {
+      "lemma": "structure",
+      "count": 3
+    },
+    {
+      "lemma": "study",
+      "count": 2
+    },
+    {
+      "lemma": "surprise",
+      "count": 1
+    },
+    {
+      "lemma": "tall",
+      "count": 2
+    },
+    {
+      "lemma": "they",
+      "count": 5
+    },
+    {
+      "lemma": "verb",
+      "count": 1
+    },
+    {
+      "lemma": "way",
+      "count": 4
+    },
+    {
+      "lemma": "we",
+      "count": 1
+    },
+    {
+      "lemma": "word",
+      "count": 7
+    },
+    {
+      "lemma": "work",
+      "count": 6
+    },
+    {
+      "lemma": "write",
+      "count": 1
+    }
+  ],
+  "affected_absent": [
+    {
+      "lemma": "act",
+      "count": 1
+    },
+    {
+      "lemma": "animal",
+      "count": 2
+    },
+    {
+      "lemma": "be",
+      "count": 114
+    },
+    {
+      "lemma": "choice",
+      "count": 5
+    },
+    {
+      "lemma": "complement",
+      "count": 5
+    },
+    {
+      "lemma": "contain",
+      "count": 1
+    },
+    {
+      "lemma": "depend",
+      "count": 1
+    },
+    {
+      "lemma": "detail",
+      "count": 1
+    },
+    {
+      "lemma": "economic",
+      "count": 1
+    },
+    {
+      "lemma": "ending",
+      "count": 1
+    },
+    {
+      "lemma": "i",
+      "count": 4
+    },
+    {
+      "lemma": "kind",
+      "count": 2
+    },
+    {
+      "lemma": "leave",
+      "count": 1
+    },
+    {
+      "lemma": "lesson",
+      "count": 1
+    },
+    {
+      "lemma": "link",
+      "count": 1
+    },
+    {
+      "lemma": "lot",
+      "count": 1
+    },
+    {
+      "lemma": "need",
+      "count": 7
+    },
+    {
+      "lemma": "olivi",
+      "count": 1
+    },
+    {
+      "lemma": "one",
+      "count": 2
+    },
+    {
+      "lemma": "position",
+      "count": 1
+    },
+    {
+      "lemma": "possibility",
+      "count": 2
+    },
+    {
+      "lemma": "rise",
+      "count": 3
+    },
+    {
+      "lemma": "shout",
+      "count": 1
+    },
+    {
+      "lemma": "simple",
+      "count": 4
+    },
+    {
+      "lemma": "start",
+      "count": 1
+    },
+    {
+      "lemma": "strawberry",
+      "count": 6
+    },
+    {
+      "lemma": "suggestion",
+      "count": 1
+    },
+    {
+      "lemma": "thank",
+      "count": 1
+    },
+    {
+      "lemma": "thing",
+      "count": 2
+    },
+    {
+      "lemma": "use",
+      "count": 8
+    },
+    {
+      "lemma": "want",
+      "count": 13
+    },
+    {
+      "lemma": "watch",
+      "count": 1
+    },
+    {
+      "lemma": "well",
+      "count": 1
+    },
+    {
+      "lemma": "will",
+      "count": 4
+    }
+  ]
+}

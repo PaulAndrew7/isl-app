@@ -473,14 +473,17 @@ def _get_nlp():
     return _nlp
 
 # Hard-coded wordlist = words you have avatar videos for (lowercase, lemmas)
-ISL_SIGN_WORDS = {
-    "hello","thanks","thank","sorry","please","name","what","where","who","how","why","yes","no",
-    "go","come","stop","start","eat","drink","sleep","read","write","learn","school","college",
-    "car","bus","train","bike","road","break","help","call","see","watch","want","need",
-    "time","day","night","today","yesterday","tomorrow","morning","evening",
-    "good","bad","big","small","more","less",
-    # add your real list here
-}
+with open("static/isl_sign_words.txt", "r", encoding="utf-8") as f:
+    lines = f.readlines()
+    ISL_SIGN_WORDS = {line.strip().lower() for line in lines}
+# ISL_SIGN_WORDS = {
+#     "hello","thanks","thank","sorry","please","name","what","where","who","how","why","yes","no",
+#     "go","come","stop","start","eat","drink","sleep","read","write","learn","school","college",
+#     "car","bus","train","bike","road","break","help","call","see","watch","want","need",
+#     "time","day","night","today","yesterday","tomorrow","morning","evening",
+#     "good","bad","big","small","more","less","arrive","baby","be",
+#     # add your real list here
+# }
 
 def _read_srt_for_session(session_id: str, file_path: str=None, filename: str=None) -> tuple[str, str]:
     """Return (srt_path, raw_text) choosing .formal.srt first if not specified."""

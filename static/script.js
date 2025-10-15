@@ -206,27 +206,59 @@ form.addEventListener("submit", async (e) => {
 
     function renderAffectedTables(present, absent, affectedAll) {
       const cont = document.getElementById("affected-container");
-      const tbodyP = document.querySelector("#tbl-present tbody");
-      const tbodyA = document.querySelector("#tbl-absent tbody");
+      const detectedCard = document.getElementById("affected-detected");
+      const presentCard = document.getElementById("affected-present");
+      const absentCard = document.getElementById("affected-absent");
+      const detectedWordsContainer = document.getElementById("isl-detected-words");
+      const presentWordsContainer = document.getElementById("isl-present-words");
+      const absentWordsContainer = document.getElementById("isl-absent-words");
       const originalsDiv = document.getElementById("affected-originals");
-      cont.classList.remove("hidden");
-      tbodyP.innerHTML = "";
-      tbodyA.innerHTML = "";
+
+      // Reset state
+      cont.classList.add("hidden");
+      detectedCard.classList.add("hidden");
+      presentCard.classList.add("hidden");
+      absentCard.classList.add("hidden");
+      detectedWordsContainer.innerHTML = "";
+      presentWordsContainer.innerHTML = "";
+      absentWordsContainer.innerHTML = "";
       originalsDiv.innerHTML = "";
 
-      // sort by count desc then lemma
-      const sortByCount = (a, b) =>
-        b.count - a.count || a.lemma.localeCompare(b.lemma);
-      [...present].sort(sortByCount).forEach((r) => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${escapeHtml(r.lemma)}</td><td>${r.count}</td>`;
-        tbodyP.appendChild(tr);
-      });
-      [...absent].sort(sortByCount).forEach((r) => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${escapeHtml(r.lemma)}</td><td>${r.count}</td>`;
-        tbodyA.appendChild(tr);
-      });
+      // Get all unique words from both present and absent
+      const allWords = [...new Set([...present, ...absent].map(item => item.lemma))];
+      
+      // Display detected ISL/root words
+      if (allWords.length) {
+        allWords.forEach(word => {
+          const wordEl = document.createElement("div");
+          wordEl.className = "vocab-item";
+          wordEl.textContent = word;
+          detectedWordsContainer.appendChild(wordEl);
+        });
+        detectedCard.classList.remove("hidden");
+      }
+
+      // Display words in ISL list
+      if (present && present.length) {
+        present.forEach(item => {
+          const wordEl = document.createElement("div");
+          wordEl.className = "vocab-item";
+          wordEl.textContent = item.lemma;
+          presentWordsContainer.appendChild(wordEl);
+        });
+        presentCard.classList.remove("hidden");
+      }
+
+      // Display words not in ISL list
+      if (absent && absent.length) {
+        absent.forEach(item => {
+          const wordEl = document.createElement("div");
+          wordEl.className = "vocab-item";
+          wordEl.textContent = item.lemma;
+          absentWordsContainer.appendChild(wordEl);
+        });
+        absentCard.classList.remove("hidden");
+      }
 
       // originals per lemma (nice for debugging)
       const byLemma = {};
@@ -241,6 +273,11 @@ form.addEventListener("submit", async (e) => {
           p.innerHTML = originals;
           originalsDiv.appendChild(p);
         });
+
+      // Reveal container only if at least one card has content
+      if (!detectedCard.classList.contains("hidden") || !presentCard.classList.contains("hidden") || !absentCard.classList.contains("hidden")) {
+        cont.classList.remove("hidden");
+      }
     }
 
     function escapeHtml(s) {

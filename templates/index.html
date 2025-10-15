@@ -43,46 +43,27 @@
         <p id="result-message"></p>
         <a id="download-link" class="download-btn hidden">Download Subtitle File</a>
       </div>
-      <div id="isl-vocab-container" class="hidden">
-        <h2 style="margin-top: 20px">Detected Root Words</h2>
-        <div id="isl-vocab" class="vocab-grid"></div>
-      </div>
       <!-- Add this below #isl-vocab-container -->
       <div id="affected-container" class="hidden">
-        <h2 style="margin-top: 20px">
-          Words Affected by spaCy (Lemmatization)
-        </h2>
-        <div class="two-col">
-          <div class="table-card">
-            <h3>In ISL List</h3>
-            <table id="tbl-present">
-              <thead>
-                <tr>
-                  <th>Lemma</th>
-                  <th>Count</th>
-                </tr>
-              </thead>
-              <tbody></tbody>
-            </table>
-          </div>
-          <div class="table-card">
-            <h3>Not in ISL List</h3>
-            <table id="tbl-absent">
-              <thead>
-                <tr>
-                  <th>Lemma</th>
-                  <th>Count</th>
-                </tr>
-              </thead>
-              <tbody></tbody>
-            </table>
-          </div>
+        <div id="affected-detected" class="summa-container hidden">
+          <h2>Detected Root Words</h2>
+          <div id="isl-detected-words" class="vocab-grid"></div>
         </div>
-        <details style="margin-top: 12px">
+        
+        <div id="affected-present" class="summa-container hidden">
+          <h2>Words for which sign videos available in ISLRTC website</h2>
+          <div id="isl-present-words" class="vocab-grid"></div>
+        </div>
+        
+        <div id="affected-absent" class="summa-container hidden">
+          <h2>Words for which sign videos NOT available in ISLRTC website</h2>
+          <div id="isl-absent-words" class="vocab-grid"></div>
+        </div>
+      </div>
+      <details style="margin-top: 12px">
           <summary>Show originals for each affected lemma</summary>
           <div id="affected-originals"></div>
         </details>
-      </div>
     </div>
 
     <script src="{{ url_for('static', filename='script.js') }}"></script>

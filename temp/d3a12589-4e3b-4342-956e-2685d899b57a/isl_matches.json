@@ -1,0 +1,1014 @@
+{
+  "source_srt": "Learn All English Verb Tenses (Easiest Method).formal.srt",
+  "unique_matches": [
+    "action",
+    "afternoon",
+    "all",
+    "already",
+    "any",
+    "apartment",
+    "arrive",
+    "aware",
+    "baby",
+    "background",
+    "ball",
+    "before",
+    "believe",
+    "big",
+    "book",
+    "breakfast",
+    "call",
+    "camera",
+    "can",
+    "canada",
+    "catch",
+    "child",
+    "come",
+    "comment",
+    "common",
+    "company",
+    "context",
+    "cover",
+    "day",
+    "decade",
+    "december",
+    "decide",
+    "diet",
+    "dinner",
+    "do",
+    "drive",
+    "eat",
+    "egg",
+    "emphasize",
+    "english",
+    "example",
+    "experience",
+    "explain",
+    "fact",
+    "familiar",
+    "far",
+    "february",
+    "final",
+    "finish",
+    "first",
+    "fly",
+    "form",
+    "france",
+    "from",
+    "future",
+    "get",
+    "give",
+    "go",
+    "habit",
+    "happen",
+    "have",
+    "he",
+    "here",
+    "his",
+    "homework",
+    "hotel",
+    "hour",
+    "hungry",
+    "in",
+    "it",
+    "job",
+    "know",
+    "learn",
+    "life",
+    "live",
+    "long",
+    "lunch",
+    "mexico",
+    "might",
+    "moment",
+    "month",
+    "more",
+    "move",
+    "my",
+    "never",
+    "new",
+    "night",
+    "no",
+    "often",
+    "on",
+    "other",
+    "over",
+    "park",
+    "party",
+    "past",
+    "perfect",
+    "phone",
+    "pizza",
+    "play",
+    "please",
+    "plenty",
+    "power",
+    "practice",
+    "question",
+    "rarely",
+    "ready",
+    "retire",
+    "run",
+    "same",
+    "schedule",
+    "sell",
+    "sentence",
+    "she",
+    "since",
+    "sky",
+    "sleep",
+    "some",
+    "speaker",
+    "spring",
+    "still",
+    "stop",
+    "straight",
+    "study",
+    "subject",
+    "summer",
+    "take",
+    "tense",
+    "that",
+    "there",
+    "they",
+    "this",
+    "ticket",
+    "time",
+    "tomorrow",
+    "travel",
+    "up",
+    "verb",
+    "very",
+    "video",
+    "we",
+    "weekend",
+    "word",
+    "work",
+    "year",
+    "yes",
+    "you"
+  ],
+  "counts": {
+    "action": 19,
+    "afternoon": 1,
+    "all": 7,
+    "already": 5,
+    "any": 1,
+    "apartment": 2,
+    "arrive": 2,
+    "aware": 1,
+    "baby": 1,
+    "background": 1,
+    "ball": 1,
+    "before": 14,
+    "believe": 2,
+    "big": 2,
+    "book": 2,
+    "breakfast": 2,
+    "call": 2,
+    "camera": 1,
+    "can": 1,
+    "canada": 1,
+    "catch": 1,
+    "child": 1,
+    "come": 4,
+    "comment": 1,
+    "common": 2,
+    "company": 1,
+    "context": 3,
+    "cover": 2,
+    "day": 3,
+    "decade": 1,
+    "december": 1,
+    "decide": 2,
+    "diet": 2,
+    "dinner": 3,
+    "do": 3,
+    "drive": 1,
+    "eat": 10,
+    "egg": 2,
+    "emphasize": 2,
+    "english": 9,
+    "example": 5,
+    "experience": 4,
+    "explain": 1,
+    "fact": 2,
+    "familiar": 2,
+    "far": 1,
+    "february": 1,
+    "final": 1,
+    "finish": 7,
+    "first": 2,
+    "fly": 1,
+    "form": 2,
+    "france": 1,
+    "from": 2,
+    "future": 14,
+    "get": 7,
+    "give": 4,
+    "go": 18,
+    "habit": 2,
+    "happen": 3,
+    "have": 38,
+    "he": 19,
+    "here": 1,
+    "his": 3,
+    "homework": 2,
+    "hotel": 2,
+    "hour": 3,
+    "hungry": 2,
+    "in": 30,
+    "it": 8,
+    "job": 1,
+    "know": 2,
+    "learn": 1,
+    "life": 1,
+    "live": 5,
+    "long": 1,
+    "lunch": 2,
+    "mexico": 1,
+    "might": 2,
+    "moment": 1,
+    "month": 1,
+    "more": 5,
+    "move": 2,
+    "my": 2,
+    "never": 2,
+    "new": 2,
+    "night": 4,
+    "no": 1,
+    "often": 2,
+    "on": 3,
+    "other": 6,
+    "over": 4,
+    "park": 1,
+    "party": 1,
+    "past": 19,
+    "perfect": 12,
+    "phone": 2,
+    "pizza": 4,
+    "play": 1,
+    "please": 1,
+    "plenty": 1,
+    "power": 2,
+    "practice": 1,
+    "question": 1,
+    "rarely": 1,
+    "ready": 3,
+    "retire": 1,
+    "run": 2,
+    "same": 1,
+    "schedule": 2,
+    "sell": 2,
+    "sentence": 1,
+    "she": 10,
+    "since": 1,
+    "sky": 1,
+    "sleep": 2,
+    "some": 1,
+    "speaker": 2,
+    "spring": 1,
+    "still": 1,
+    "stop": 2,
+    "straight": 1,
+    "study": 21,
+    "subject": 2,
+    "summer": 1,
+    "take": 1,
+    "tense": 16,
+    "that": 16,
+    "there": 6,
+    "they": 6,
+    "this": 15,
+    "ticket": 2,
+    "time": 12,
+    "tomorrow": 2,
+    "travel": 2,
+    "up": 1,
+    "verb": 1,
+    "very": 2,
+    "video": 2,
+    "we": 42,
+    "weekend": 1,
+    "word": 7,
+    "work": 6,
+    "year": 8,
+    "yes": 1,
+    "you": 10
+  },
+  "affected_lemmas": [
+    {
+      "lemma": "action",
+      "originals": [
+        "actions"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "arrive",
+      "originals": [
+        "arrives"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "baby",
+      "originals": [
+        "babies"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "be",
+      "originals": [
+        "am",
+        "are",
+        "been",
+        "is",
+        "was",
+        "were"
+      ],
+      "count": 65
+    },
+    {
+      "lemma": "book",
+      "originals": [
+        "booked"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "catch",
+      "originals": [
+        "caught"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "come",
+      "originals": [
+        "came",
+        "comes"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "comment",
+      "originals": [
+        "comments"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "complete",
+      "originals": [
+        "completed"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "congratulation",
+      "originals": [
+        "congratulations"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "continue",
+      "originals": [
+        "continued",
+        "continues"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "cover",
+      "originals": [
+        "covered"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "cupcake",
+      "originals": [
+        "cupcakes"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "decide",
+      "originals": [
+        "decided"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "describe",
+      "originals": [
+        "describes"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "drive",
+      "originals": [
+        "driving"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "eat",
+      "originals": [
+        "ate",
+        "eaten",
+        "eating"
+      ],
+      "count": 10
+    },
+    {
+      "lemma": "egg",
+      "originals": [
+        "eggs"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "engage",
+      "originals": [
+        "engaged"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "errand",
+      "originals": [
+        "errands"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "example",
+      "originals": [
+        "examples"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "fact",
+      "originals": [
+        "facts"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "finish",
+      "originals": [
+        "finished"
+      ],
+      "count": 7
+    },
+    {
+      "lemma": "fly",
+      "originals": [
+        "flying"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "form",
+      "originals": [
+        "forms"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "get",
+      "originals": [
+        "got"
+      ],
+      "count": 5
+    },
+    {
+      "lemma": "give",
+      "originals": [
+        "given"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "go",
+      "originals": [
+        "going",
+        "went"
+      ],
+      "count": 16
+    },
+    {
+      "lemma": "habit",
+      "originals": [
+        "habits"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "happen",
+      "originals": [
+        "happening"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "have",
+      "originals": [
+        "had",
+        "has"
+      ],
+      "count": 14
+    },
+    {
+      "lemma": "hour",
+      "originals": [
+        "hours"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "i",
+      "originals": [
+        "me"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "job",
+      "originals": [
+        "jobs"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "learn",
+      "originals": [
+        "learning"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "leave",
+      "originals": [
+        "left"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "live",
+      "originals": [
+        "lived",
+        "living"
+      ],
+      "count": 4
+    },
+    {
+      "lemma": "move",
+      "originals": [
+        "moved"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "question",
+      "originals": [
+        "questions"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "retire",
+      "originals": [
+        "retires"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "run",
+      "originals": [
+        "running"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "schedule",
+      "originals": [
+        "schedules"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "sell",
+      "originals": [
+        "sold"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "sleep",
+      "originals": [
+        "sleeping"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "speak",
+      "originals": [
+        "speaking"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "speaker",
+      "originals": [
+        "speakers"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "start",
+      "originals": [
+        "started"
+      ],
+      "count": 8
+    },
+    {
+      "lemma": "stop",
+      "originals": [
+        "stopped"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "study",
+      "originals": [
+        "studied",
+        "studies",
+        "studying"
+      ],
+      "count": 16
+    },
+    {
+      "lemma": "talk",
+      "originals": [
+        "talking"
+      ],
+      "count": 8
+    },
+    {
+      "lemma": "tense",
+      "originals": [
+        "tenses"
+      ],
+      "count": 6
+    },
+    {
+      "lemma": "thank",
+      "originals": [
+        "thanks"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "they",
+      "originals": [
+        "them"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "ticket",
+      "originals": [
+        "tickets"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "travel",
+      "originals": [
+        "traveling"
+      ],
+      "count": 2
+    },
+    {
+      "lemma": "use",
+      "originals": [
+        "used",
+        "using"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "watch",
+      "originals": [
+        "watching"
+      ],
+      "count": 7
+    },
+    {
+      "lemma": "week",
+      "originals": [
+        "weeks"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "weekend",
+      "originals": [
+        "weekends"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "wild",
+      "originals": [
+        "wilds"
+      ],
+      "count": 1
+    },
+    {
+      "lemma": "word",
+      "originals": [
+        "words"
+      ],
+      "count": 6
+    },
+    {
+      "lemma": "work",
+      "originals": [
+        "worked",
+        "working"
+      ],
+      "count": 3
+    },
+    {
+      "lemma": "year",
+      "originals": [
+        "years"
+      ],
+      "count": 5
+    }
+  ],
+  "affected_present": [
+    {
+      "lemma": "action",
+      "count": 3
+    },
+    {
+      "lemma": "arrive",
+      "count": 1
+    },
+    {
+      "lemma": "baby",
+      "count": 1
+    },
+    {
+      "lemma": "book",
+      "count": 2
+    },
+    {
+      "lemma": "catch",
+      "count": 1
+    },
+    {
+      "lemma": "come",
+      "count": 3
+    },
+    {
+      "lemma": "comment",
+      "count": 1
+    },
+    {
+      "lemma": "cover",
+      "count": 2
+    },
+    {
+      "lemma": "decide",
+      "count": 2
+    },
+    {
+      "lemma": "drive",
+      "count": 1
+    },
+    {
+      "lemma": "eat",
+      "count": 10
+    },
+    {
+      "lemma": "egg",
+      "count": 2
+    },
+    {
+      "lemma": "example",
+      "count": 2
+    },
+    {
+      "lemma": "fact",
+      "count": 1
+    },
+    {
+      "lemma": "finish",
+      "count": 7
+    },
+    {
+      "lemma": "fly",
+      "count": 1
+    },
+    {
+      "lemma": "form",
+      "count": 1
+    },
+    {
+      "lemma": "get",
+      "count": 5
+    },
+    {
+      "lemma": "give",
+      "count": 2
+    },
+    {
+      "lemma": "go",
+      "count": 16
+    },
+    {
+      "lemma": "habit",
+      "count": 1
+    },
+    {
+      "lemma": "happen",
+      "count": 2
+    },
+    {
+      "lemma": "have",
+      "count": 14
+    },
+    {
+      "lemma": "hour",
+      "count": 2
+    },
+    {
+      "lemma": "job",
+      "count": 1
+    },
+    {
+      "lemma": "learn",
+      "count": 1
+    },
+    {
+      "lemma": "live",
+      "count": 4
+    },
+    {
+      "lemma": "move",
+      "count": 1
+    },
+    {
+      "lemma": "question",
+      "count": 1
+    },
+    {
+      "lemma": "retire",
+      "count": 1
+    },
+    {
+      "lemma": "run",
+      "count": 2
+    },
+    {
+      "lemma": "schedule",
+      "count": 1
+    },
+    {
+      "lemma": "sell",
+      "count": 2
+    },
+    {
+      "lemma": "sleep",
+      "count": 2
+    },
+    {
+      "lemma": "speaker",
+      "count": 2
+    },
+    {
+      "lemma": "stop",
+      "count": 2
+    },
+    {
+      "lemma": "study",
+      "count": 16
+    },
+    {
+      "lemma": "tense",
+      "count": 6
+    },
+    {
+      "lemma": "they",
+      "count": 1
+    },
+    {
+      "lemma": "ticket",
+      "count": 2
+    },
+    {
+      "lemma": "travel",
+      "count": 2
+    },
+    {
+      "lemma": "weekend",
+      "count": 1
+    },
+    {
+      "lemma": "word",
+      "count": 6
+    },
+    {
+      "lemma": "work",
+      "count": 3
+    },
+    {
+      "lemma": "year",
+      "count": 5
+    }
+  ],
+  "affected_absent": [
+    {
+      "lemma": "be",
+      "count": 65
+    },
+    {
+      "lemma": "complete",
+      "count": 1
+    },
+    {
+      "lemma": "congratulation",
+      "count": 2
+    },
+    {
+      "lemma": "continue",
+      "count": 3
+    },
+    {
+      "lemma": "cupcake",
+      "count": 2
+    },
+    {
+      "lemma": "describe",
+      "count": 2
+    },
+    {
+      "lemma": "engage",
+      "count": 1
+    },
+    {
+      "lemma": "errand",
+      "count": 1
+    },
+    {
+      "lemma": "i",
+      "count": 1
+    },
+    {
+      "lemma": "leave",
+      "count": 3
+    },
+    {
+      "lemma": "speak",
+      "count": 1
+    },
+    {
+      "lemma": "start",
+      "count": 8
+    },
+    {
+      "lemma": "talk",
+      "count": 8
+    },
+    {
+      "lemma": "thank",
+      "count": 1
+    },
+    {
+      "lemma": "use",
+      "count": 3
+    },
+    {
+      "lemma": "watch",
+      "count": 7
+    },
+    {
+      "lemma": "week",
+      "count": 1
+    },
+    {
+      "lemma": "wild",
+      "count": 1
+    }
+  ]
+}
